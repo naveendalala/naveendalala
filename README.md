@@ -51,7 +51,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="naveendalalappanaveen@gmail.com">
-    <img src="https://img.icons8.com/material-rounded/24/000000/new-post.png" alt="Email" width="30" height="30"/>
+<img src="https://img.icons8.com/fluency/48/mail.png" alt="email" width="30" height="30"/>
   </a>
 </p>
 
