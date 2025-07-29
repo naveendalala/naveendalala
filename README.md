@@ -32,29 +32,15 @@
 
 </p>
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="Naveen's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" alt="Naveen's GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default" alt="Top Languages"/>
-</p>
-
-> 🔁 Replace `your-username` with your actual GitHub username
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 [Job Portal Application](https://github.com/your-username/job-portal) — Java, JDBC & MySQL-based platform to post and apply for jobs  
-- 🔹 [AI Virtual Assistant – Nash](https://github.com/your-username/ai-virtual-assistant) — Python voice assistant to open apps, websites, and more  
-- 🔹 [Restaurant Billing System](https://github.com/your-username/billing-system) — Java + MySQL project for managing restaurant bills  
+- 🔹 [Job Portal Application]([https://github.com/your-username/job-portal](https://github.com/naveendalala/Job-Portal-Application)) — Java, JDBC & MySQL-based platform to post and apply for jobs  
+- 🔹 [AI Virtual Assistant – Nash]([https://github.com/your-username/ai-virtual-assistant](https://github.com/naveendalala/https---github.com-naveendalala-Ai-Virtual-Assistant)) — Python voice assistant to open apps, websites, and more  
+- 🔹 [Restaurant Billing System]([https://github.com/your-username/billing-system](https://github.com/naveendalala/Restaurant-Billing-System)) — Java + MySQL project for managing restaurant bills  
 
 ---
 
