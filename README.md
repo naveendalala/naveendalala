@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, Python, SQL, AWS, and Building Projects**
 
-- 📫 How to reach me: **naveen.dalalappa@gmail.com**
+- 📫 How to reach me: **naveendalalappanaveen@gmail.com**
 
 - ⚡ Fun fact: *I love reading books and exploring new tech tools*
 
